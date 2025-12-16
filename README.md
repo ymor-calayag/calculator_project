@@ -1,4 +1,4 @@
-# calculator_project
+# Simple Calculator
 
 This calculator allows users to perform continuous calculations, choosing to either continue operating on the current result or start a new calculation from scratch. It features a clear text-based interface displaying the current operations and results.
 
